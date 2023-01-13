@@ -1,0 +1,33 @@
+
+
+https://www.youtube.com/watch?v=sdDDuQuX2cg&t=2738s
+
+Step1-Open on Browser
+Step2-Search in your Tool bar Spring initializer
+step3-open page then select Project - Maven Language - java
+Spring Boot- Versoin add 2.7.8(SNAPSHOT)
+Project Metadata
+Group                    com.example
+Artifact                   Any name
+Name                       //
+Description            Demo project for Spring Boot
+Package name      com.example.demo
+Packaging - Jar
+Java-----11
+
+DEPENDENDENCIES ADD.
+1.DEVELOPER TOOLS
+2.MYSQL
+3.LOMBOK
+4.JPA
+5.SPRING WED
+
+
+
+step4-Then download jar and opn folder and Extract jar file and open your inteliji idea.
+Open terminal and install first $mvn install
+Step5-Work do it ya not work check prosijer Stepe-
+
+Open localhost- then select GET And put    Localhost:1112/  then search
+ANSWER– Welcome
+And re load procedure - jo phly se bn ke aaya hai main method
